@@ -1,0 +1,10 @@
+C:\VM\Project1\BankingApp\bin\Debug\BankingApp.exe.config
+C:\VM\Project1\BankingApp\bin\Debug\BankingApp.exe
+C:\VM\Project1\BankingApp\bin\Debug\BankingApp.pdb
+C:\VM\Project1\BankingApp\bin\Debug\ClassLibrary.dll
+C:\VM\Project1\BankingApp\bin\Debug\ClassLibrary.pdb
+C:\VM\Project1\BankingApp\obj\Debug\BankingApp.csprojAssemblyReference.cache
+C:\VM\Project1\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+C:\VM\Project1\BankingApp\obj\Debug\BankingApp.csproj.CopyComplete
+C:\VM\Project1\BankingApp\obj\Debug\BankingApp.exe
+C:\VM\Project1\BankingApp\obj\Debug\BankingApp.pdb
